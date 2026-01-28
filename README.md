@@ -1,72 +1,51 @@
 # Java Fundamentos ☕
 
-Este repositório contém meus estudos e práticas sobre **Java Fundamentos**, organizados de forma progressiva e didática.  
-O objetivo é consolidar a base da linguagem Java, preparando o caminho para conteúdos mais avançados como **JPA, Spring Boot e desenvolvimento backend**.
+Este repositório reúne meus estudos em **Java Fundamentos**, organizados por tópicos essenciais da linguagem.  
+O foco é construir uma base sólida para evolução em **Java backend**.
 
 ---
 
-## 📚 Conteúdos Abordados
+## 📚 Conteúdos
 
 ### 🔹 Fundamentos da Linguagem
-- Estrutura básica de um programa Java
-- Uso da classe `Scanner` para entrada de dados
-- Variáveis e constantes
-- Tipos primitivos e tipos de referência
-- Conversão de tipos (casting)
-- Operadores aritméticos, relacionais e lógicos
-- Operador ternário
+- Sintaxe básica
+- Variáveis e tipos
+- Entrada de dados com `Scanner`
+- Operadores e operador ternário
 
 ---
 
-### 🔹 Métodos
-- Declaração e chamada de métodos
-- Métodos com e sem retorno
-- Parâmetros e passagem de valores
-- Sobrecarga de métodos
-- Escopo de variáveis
-- Métodos `static` vs métodos de instância
+### 🔹 Métodos e Arrays
+- Criação e uso de métodos
+- Parâmetros e retorno
+- Arrays e manipulação de dados
+- Exercícios práticos
 
 ---
 
 ### 🔹 Controle de Fluxo
-- Estruturas condicionais:
-  - `if`, `else`, `else if`
-  - `switch`
-- Estruturas de repetição:
-  - `for`
-  - `while`
-  - `do while`
-- Uso de `break` e `continue`
-- Laços básicos e controle de execução
-
----
-
-### 🔹 Arrays (Listas)
-- Declaração e inicialização de arrays
-- Arrays de tipos primitivos e objetos
-- Percorrendo arrays com laços
-- Manipulação de dados em arrays
-- Aplicação prática com exercícios
+- Estruturas condicionais (`if`, `else`, `switch`)
+- Laços de repetição (`for`, `while`, `do while`)
+- Controle de execução
 
 ---
 
 ### 🔹 Programação Orientada a Objetos (POO)
-- Conceitos fundamentais de OO
 - Classes e objetos
-- Atributos e métodos
-- Construtores
 - Encapsulamento
-- Modificadores de acesso (`public`, `private`, `protected`)
 - Herança
 - Polimorfismo
-- Boas práticas de modelagem orientada a objetos
+- Boas práticas de OO
 
 ---
 
-## 🗂️ Organização do Repositório
-O conteúdo está dividido em pastas por assunto, e cada seção possui seu próprio `README.md` explicando os tópicos estudados e exemplos práticos.
+## 🗂️ Organização
+O repositório está dividido em pastas por assunto, cada uma com exemplos e um `README.md` explicativo.
 
 ---
+
+
+
 
 
 

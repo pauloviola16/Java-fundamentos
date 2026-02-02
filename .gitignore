@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+*.code-workspace
+
+# Pastas antigas / backup
+sessoes-antigas/

@@ -1,0 +1,50 @@
+package secao8;
+
+public class ContaBancaria {
+
+    private String titular;
+    private double saldo;
+
+     public void setTitular (String titular){
+
+        if (titular != null && !titular.isEmpty()) {
+            this.titular = titular;
+            
+        } else{
+            System.out.println("Nome inválido");
+        }
+
+     }
+
+    public void setSaldo (double saldo){
+        if (saldo >= 0) {
+            this.saldo = saldo;
+
+        } else{
+            System.out.println("O saldo precisa ser positivo");
+        }
+    }
+
+    
+     public void exibirInfo(){
+       
+      System.out.println("A conta do titular: " + titular + " , " + "tem um saldo de: " + saldo);
+
+     }
+
+     // getters
+
+     public String getTitular(){
+        return titular;
+     }
+
+     public String getSaldo(){
+        return "R$: " + saldo;
+     }
+
+
+
+
+
+    
+}
